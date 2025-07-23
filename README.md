@@ -1,5 +1,6 @@
 # Data-Analysis
 Developed a project in tableau involving data analysis and forensic technology by creating data dashboard.
+
 1)Firstly downloaded the dataset and imported into the tableau software.
 
 2)Created a calculated measure field called "Unhealthy" with a value of 10 for every unhealthy status (representing 10 mins of potential down time since the previous message).
